@@ -1,0 +1,792 @@
+County,District,School,Assistance Status
+Los Angeles,ABC Unified,ABC Secondary (Alternative),CSI Grad
+Los Angeles,ABC Unified,Ross (Faye) Middle,General Assistance
+Los Angeles,ABC Unified,Tetzlaff (Martin B.) Middle,General Assistance
+Los Angeles,ABC Unified,Haskell (Pliny Fisk) Middle,General Assistance
+Los Angeles,ABC Unified,Fedde (Pharis F.) Middle,General Assistance
+Los Angeles,ABC Unified,Carmenita Middle,General Assistance
+Los Angeles,Acton-Agua Dulce Unified,Assurance Learning Academy,General Assistance
+Los Angeles,Acton-Agua Dulce Unified,SIATech Academy South,CSI Grad
+Los Angeles,Acton-Agua Dulce Unified,iLEAD Hybrid,General Assistance
+Los Angeles,Acton-Agua Dulce Unified,Community Collaborative Charter,CSI Grad
+Los Angeles,Acton-Agua Dulce Unified,Pathways Academy Charter Adult Education,CSI Grad
+Los Angeles,Acton-Agua Dulce Unified,Empower Generations,General Assistance
+Los Angeles,Acton-Agua Dulce Unified,Compass Charter Schools of Los Angeles,CSI Grad
+Los Angeles,Acton-Agua Dulce Unified,iLEAD Online,General Assistance
+Los Angeles,Acton-Agua Dulce Unified,Options for Youth-Acton,CSI Grad
+Los Angeles,Acton-Agua Dulce Unified,"Method Schools, LA",General Assistance
+Los Angeles,Acton-Agua Dulce Unified,Mission Academy,General Assistance
+Los Angeles,Acton-Agua Dulce Unified,iLead Agua Dulce,General Assistance
+Los Angeles,Antelope Valley Union High,Academies of the Antelope Valley,ATSI
+Los Angeles,Antelope Valley Union High,Desert Sands Charter,General Assistance
+Los Angeles,Arcadia Unified,Rancho Learning Center (Alternative),General Assistance
+Los Angeles,Arcadia Unified,First Avenue Middle,General Assistance
+Los Angeles,Arcadia Unified,Richard Henry Dana Middle,General Assistance
+Los Angeles,Arcadia Unified,Foothills Middle,General Assistance
+Los Angeles,Azusa Unified,Longfellow,General Assistance
+Los Angeles,Azusa Unified,Center Middle,General Assistance
+Los Angeles,Azusa Unified,Foothill Middle,General Assistance
+Los Angeles,Azusa Unified,Slauson Intermediate,General Assistance
+Los Angeles,Baldwin Park Unified,Opportunities for Learning - Baldwin Park,CSI Grad
+Los Angeles,Baldwin Park Unified,Jerry D. Holland Middle,General Assistance
+Los Angeles,Baldwin Park Unified,Olive Middle,General Assistance
+Los Angeles,Baldwin Park Unified,Santa Fe Fundamental,General Assistance
+Los Angeles,Bassett Unified,Edgewood Academy,General Assistance
+Los Angeles,Bassett Unified,Torch Middle,General Assistance
+Los Angeles,Bellflower Unified,Las Flores Home Education Independent Study Academy,General Assistance
+Los Angeles,Bellflower Unified,Bellflower Alternative Education Center,General Assistance
+Los Angeles,Bellflower Unified,Intensive Learning Center,General Assistance
+Los Angeles,Beverly Hills Unified,Beverly Vista Middle,General Assistance
+Los Angeles,Bonita Unified,Ramona Middle,General Assistance
+Los Angeles,Bonita Unified,Lone Hill Middle,General Assistance
+Los Angeles,Burbank Unified,Burbank Unified Independent Learning Academy (BUILA),General Assistance
+Los Angeles,Burbank Unified,Magnolia Park,General Assistance
+Los Angeles,Burbank Unified,Burbank USD Community Day,General Assistance
+Los Angeles,Burbank Unified,David Starr Jordan Middle,General Assistance
+Los Angeles,Burbank Unified,Luther Burbank Middle,General Assistance
+Los Angeles,Burbank Unified,John Muir Middle,General Assistance
+Los Angeles,Castaic Union,Castaic Middle,General Assistance
+Los Angeles,Centinela Valley Union High,Centinela Valley Independent Study,General Assistance
+Los Angeles,Centinela Valley Union High,Family First Charter,CSI Grad
+Los Angeles,Centinela Valley Union High,New Opportunities Charter,CSI Grad
+Los Angeles,Charter Oak Unified,Oak Knoll Alternative,General Assistance
+Los Angeles,Charter Oak Unified,Bridges Community Day,General Assistance
+Los Angeles,Charter Oak Unified,Royal Oak Middle,General Assistance
+Los Angeles,Claremont Unified,Community Day,General Assistance
+Los Angeles,Claremont Unified,Danbury Special Education,ATSI
+Los Angeles,Claremont Unified,El Roble Intermediate,General Assistance
+Los Angeles,Compton Unified,Lifeline Education Charter,General Assistance
+Los Angeles,Compton Unified,Barack Obama Charter,ATSI
+Los Angeles,Compton Unified,Today's Fresh Start-Compton,ATSI
+Los Angeles,Compton Unified,ISANA Achernar Academy,General Assistance
+Los Angeles,Compton Unified,Ingenium Clarion Charter Middle,General Assistance
+Los Angeles,Compton Unified,KIPP Compton Community,General Assistance
+Los Angeles,Compton Unified,Animo Compton Charter,General Assistance
+Los Angeles,Compton Unified,Thurgood Marshall,CSI Grad
+Los Angeles,Compton Unified,Bunche Middle,General Assistance
+Los Angeles,Compton Unified,Enterprise Middle,General Assistance
+Los Angeles,Compton Unified,Whaley Middle,General Assistance
+Los Angeles,Compton Unified,Willowbrook Middle,General Assistance
+Los Angeles,Compton Unified,Roosevelt Middle,General Assistance
+Los Angeles,Compton Unified,Walton Middle,General Assistance
+Los Angeles,Compton Unified,Compton Community Day Middle,General Assistance
+Los Angeles,Compton Unified,"Clinton, William Jefferson",General Assistance
+Los Angeles,Covina-Valley Unified,Las Palmas Middle,General Assistance
+Los Angeles,Covina-Valley Unified,Sierra Vista Middle,General Assistance
+Los Angeles,Covina-Valley Unified,Traweek Middle,General Assistance
+Los Angeles,Culver City Unified,Culver City Unified School District iAcademy,General Assistance
+Los Angeles,Culver City Unified,Culver City Middle,General Assistance
+Los Angeles,Downey Unified,Woodruff Academy,General Assistance
+Los Angeles,Downey Unified,Doty (Wendy Lopour) Middle,General Assistance
+Los Angeles,Downey Unified,Griffiths (Gordon) Middle,General Assistance
+Los Angeles,Downey Unified,Sussman (Edward A.) Middle,General Assistance
+Los Angeles,Downey Unified,Stauffer (Mary R.) Middle,General Assistance
+Los Angeles,Duarte Unified,Opportunities for Learning - Duarte,CSI Grad
+Los Angeles,Duarte Unified,California School of the Arts - San Gabriel Valley,General Assistance
+Los Angeles,Duarte Unified,Andres Duarte Arts Academy (PK-8),General Assistance
+Los Angeles,Duarte Unified,Beardslee Dual Language Immersion Academy (PK-8),General Assistance
+Los Angeles,Duarte Unified,Maxwell Academy (PK-8),General Assistance
+Los Angeles,Duarte Unified,Royal Oaks STEAM Academy (K-8),General Assistance
+Los Angeles,Duarte Unified,Valley View Academy of Technology and Creative Learning (TK-6),General Assistance
+Los Angeles,East Whittier City Elementary,East Whittier Middle,General Assistance
+Los Angeles,East Whittier City Elementary,Granada Middle,General Assistance
+Los Angeles,East Whittier City Elementary,Hillview Middle,General Assistance
+Los Angeles,Eastside Union Elementary,Eastside Academy/Transitional Learning Center,General Assistance
+Los Angeles,Eastside Union Elementary,Gifford C. Cole Middle,ATSI
+Los Angeles,El Rancho Unified,Ellen Ochoa Prep Academy,General Assistance
+Los Angeles,El Rancho Unified,Ruben Salazar Continuation,General Assistance
+Los Angeles,El Rancho Unified,Birney Tech Academy,General Assistance
+Los Angeles,El Rancho Unified,Magee Academy of Arts & Sciences,General Assistance
+Los Angeles,El Rancho Unified,South Ranchito Dual Language Academy,General Assistance
+Los Angeles,El Rancho Unified,Valencia Academy of the Arts,General Assistance
+Los Angeles,El Rancho Unified,STEAM Academy @ Burke,General Assistance
+Los Angeles,El Rancho Unified,North Park Academy of the Arts,General Assistance
+Los Angeles,El Rancho Unified,Rivera Middle,General Assistance
+Los Angeles,El Segundo Unified,El Segundo Middle,General Assistance
+Los Angeles,Garvey Elementary,Duff Language Magnet Academy,General Assistance
+Los Angeles,Garvey Elementary,Garvey (Richard) Intermediate,General Assistance
+Los Angeles,Garvey Elementary,Temple (Roger W.) Intermediate,General Assistance
+Los Angeles,Glendale Unified,Verdugo Academy,General Assistance
+Los Angeles,Glendale Unified,Jewel City Community Day,General Assistance
+Los Angeles,Glendale Unified,Theodore Roosevelt Middle,General Assistance
+Los Angeles,Glendale Unified,Eleanor J. Toll Middle,General Assistance
+Los Angeles,Glendale Unified,Rosemont Middle,General Assistance
+Los Angeles,Glendale Unified,Woodrow Wilson Middle,General Assistance
+Los Angeles,Glendale Unified,College View,General Assistance
+Los Angeles,Glendora Unified,Goddard Middle,General Assistance
+Los Angeles,Glendora Unified,Sandburg Middle,General Assistance
+Los Angeles,Gorman Joint,Gorman Learning Center,General Assistance
+Los Angeles,Hacienda la Puente Unified,Cedarlane Academy,General Assistance
+Los Angeles,Hacienda la Puente Unified,Palm Canyon,General Assistance
+Los Angeles,Hacienda la Puente Unified,Valley Community Day,General Assistance
+Los Angeles,Hacienda la Puente Unified,Baldwin Academy,General Assistance
+Los Angeles,Hacienda la Puente Unified,Fairgrove Academy,General Assistance
+Los Angeles,Hacienda la Puente Unified,Lassalette,General Assistance
+Los Angeles,Hacienda la Puente Unified,Los Robles Academy,General Assistance
+Los Angeles,Hacienda la Puente Unified,Mesa Robles,General Assistance
+Los Angeles,Hacienda la Puente Unified,Newton Middle,General Assistance
+Los Angeles,Hacienda la Puente Unified,Orange Grove Middle,General Assistance
+Los Angeles,Hacienda la Puente Unified,Sierra Vista Middle,General Assistance
+Los Angeles,Hacienda la Puente Unified,Sparks Middle,ATSI
+Los Angeles,Hacienda la Puente Unified,Temple Academy,General Assistance
+Los Angeles,Hacienda la Puente Unified,"Grandview, College Preparatory Academy",General Assistance
+Los Angeles,Hacienda la Puente Unified,Valinda School of Academics,General Assistance
+Los Angeles,Hacienda la Puente Unified,Sunset,General Assistance
+Los Angeles,Hawthorne,Hawthorne Math and Science Academy,General Assistance
+Los Angeles,Hawthorne,Eucalyptus,General Assistance
+Los Angeles,Hawthorne,Hawthorne Middle,General Assistance
+Los Angeles,Hawthorne,Jefferson,General Assistance
+Los Angeles,Hawthorne,Ramona,General Assistance
+Los Angeles,Hawthorne,Washington,General Assistance
+Los Angeles,Hawthorne,York,General Assistance
+Los Angeles,Hawthorne,Bud Carson Middle,General Assistance
+Los Angeles,Hawthorne,Zela Davis,General Assistance
+Los Angeles,Hawthorne,Prairie Vista Middle,General Assistance
+Los Angeles,Hawthorne,Kornblum,General Assistance
+Los Angeles,Hughes-Elizabeth Lakes Union Elementary,Hughes-Elizabeth Lakes,General Assistance
+Los Angeles,Inglewood Unified,Wilder's Preparatory Academy Charter,General Assistance
+Los Angeles,Inglewood Unified,Wilder's Preparatory Academy Charter Middle,General Assistance
+Los Angeles,Inglewood Unified,Today's Fresh Start Charter School Inglewood,General Assistance
+Los Angeles,Inglewood Unified,Children of Promise Preparatory Academy,General Assistance
+Los Angeles,Inglewood Unified,Grace Hopper STEM Academy,General Assistance
+Los Angeles,Inglewood Unified,La Tijera K-8 Charter School Academy of Excellence,General Assistance
+Los Angeles,Inglewood Unified,Frank D. Parent,General Assistance
+Los Angeles,Inglewood Unified,Beulah Payne P-8 STEAM Academy,General Assistance
+Los Angeles,Inglewood Unified,Woodworth-Monroe K-8 Academy,General Assistance
+Los Angeles,Keppel Union Elementary,Sage Oak Charter - Keppel Community Collaborative,General Assistance
+Los Angeles,Keppel Union Elementary,Keppel Academy,General Assistance
+Los Angeles,Lancaster Elementary,Endeavour Middle,ATSI
+Los Angeles,Lancaster Elementary,Life Source International Charter,ATSI
+Los Angeles,Lancaster Elementary,Discovery,General Assistance
+Los Angeles,Lancaster Elementary,iLEAD Lancaster Charter,ATSI
+Los Angeles,Lancaster Elementary,Fulton and Alsbury Academy of Arts and Engineering,General Assistance
+Los Angeles,Lancaster Elementary,Amargosa Creek Middle,General Assistance
+Los Angeles,Lancaster Elementary,Piute Middle,General Assistance
+Los Angeles,Lancaster Elementary,Lancaster Alternative and Virtual Academies,General Assistance
+Los Angeles,Lancaster Elementary,New Vista Middle,General Assistance
+Los Angeles,Las Virgenes Unified,Alice C. Stelle Middle,General Assistance
+Los Angeles,Las Virgenes Unified,Mariposa School of Global Education,General Assistance
+Los Angeles,Las Virgenes Unified,Arthur E. Wright Middle,General Assistance
+Los Angeles,Las Virgenes Unified,Lindero Canyon Middle,General Assistance
+Los Angeles,Lawndale Elementary,Jane Addams Middle,General Assistance
+Los Angeles,Lawndale Elementary,Will Rogers Middle,General Assistance
+Los Angeles,Lennox,"Lennox Mathematics, Science and Technology Academy",General Assistance
+Los Angeles,Lennox,Century Community Charter,General Assistance
+Los Angeles,Lennox,Lennox Virtual Academy,General Assistance
+Los Angeles,Lennox,Lennox Middle,General Assistance
+Los Angeles,Little Lake City Elementary,Lake Center Middle,General Assistance
+Los Angeles,Little Lake City Elementary,Lakeside Middle,General Assistance
+Los Angeles,Long Beach Unified,Lindsey Academy,ATSI
+Los Angeles,Long Beach Unified,Intellectual Virtues Academy of Long Beach,General Assistance
+Los Angeles,Long Beach Unified,Clear Passage Educational Center,General Assistance
+Los Angeles,Long Beach Unified,Eunice Sato Academy of Math & Science,General Assistance
+Los Angeles,Long Beach Unified,Helen Keller Middle,General Assistance
+Los Angeles,Long Beach Unified,Avalon K-12,General Assistance
+Los Angeles,Long Beach Unified,California Academy of Mathematics and Science,General Assistance
+Los Angeles,Long Beach Unified,Cubberley K-8,General Assistance
+Los Angeles,Long Beach Unified,Emerson Parkside Academy,General Assistance
+Los Angeles,Long Beach Unified,Gompers K-8,General Assistance
+Los Angeles,Long Beach Unified,Henry,General Assistance
+Los Angeles,Long Beach Unified,Hudson K-8,ATSI
+Los Angeles,Long Beach Unified,Muir K-8,ATSI
+Los Angeles,Long Beach Unified,Newcomb Academy,General Assistance
+Los Angeles,Long Beach Unified,Jessie Nelson Academy,General Assistance
+Los Angeles,Long Beach Unified,Tincher Preparatory,General Assistance
+Los Angeles,Long Beach Unified,Hamilton Middle,ATSI
+Los Angeles,Long Beach Unified,Hoover Middle,General Assistance
+Los Angeles,Long Beach Unified,Jefferson Leadership Academies,General Assistance
+Los Angeles,Long Beach Unified,Marshall Academy of the Arts,General Assistance
+Los Angeles,Long Beach Unified,Rogers Middle,General Assistance
+Los Angeles,Long Beach Unified,Stephens Middle,General Assistance
+Los Angeles,Long Beach Unified,Bancroft Middle,General Assistance
+Los Angeles,Long Beach Unified,Hughes Middle,General Assistance
+Los Angeles,Long Beach Unified,Stanford Middle,General Assistance
+Los Angeles,Long Beach Unified,Washington Middle,ATSI
+Los Angeles,Long Beach Unified,Robinson Academy,General Assistance
+Los Angeles,Long Beach Unified,Powell Academy for Success,General Assistance
+Los Angeles,Los Angeles County Office of Education,Jardin de la Infancia,General Assistance
+Los Angeles,Los Angeles County Office of Education,Aspire Antonio Maria Lugo Academy,General Assistance
+Los Angeles,Los Angeles County Office of Education,Aspire Ollin University Preparatory Academy,General Assistance
+Los Angeles,Los Angeles County Office of Education,Magnolia Science Academy 3,General Assistance
+Los Angeles,Los Angeles County Office of Education,Magnolia Science Academy 2,General Assistance
+Los Angeles,Los Angeles County Office of Education,Environmental Charter Middle,General Assistance
+Los Angeles,Los Angeles County Office of Education,"Nidorf, Barry J.",CSI Grad
+Los Angeles,Los Angeles County Office of Education,Central Juvenile Hall,CSI Grad
+Los Angeles,Los Angeles County Office of Education,"Kirby, Dorothy Camp",General Assistance
+Los Angeles,Los Angeles County Office of Education,Afflerbaugh-Paige Camp,CSI Grad
+Los Angeles,Los Angeles County Office of Education,"Rockey, Glenn Camp",General Assistance
+Los Angeles,Los Angeles County Office of Education,"Scott, Joseph Camp",General Assistance
+Los Angeles,Los Angeles County Office of Education,Environmental Charter Middle - Inglewood,General Assistance
+Los Angeles,Los Angeles County Office of Education,Optimist Charter,General Assistance
+Los Angeles,Los Angeles County Office of Education,Lashon Academy,General Assistance
+Los Angeles,Los Angeles County Office of Education,Valiente College Preparatory Charter,General Assistance
+Los Angeles,Los Angeles County Office of Education,Intellectual Virtues Academy,General Assistance
+Los Angeles,Los Angeles County Office of Education,Alma Fuerte Public,General Assistance
+Los Angeles,Los Angeles County Office of Education,Soleil Academy Charter,General Assistance
+Los Angeles,Los Angeles County Office of Education,Magnolia Science Academy 5,General Assistance
+Los Angeles,Los Angeles County Office of Education,Renaissance County Community,CSI Grad
+Los Angeles,Los Angeles County Office of Education,Odyssey Charter,General Assistance
+Los Angeles,Los Angeles County Office of Education,Magnolia Science Academy,General Assistance
+Los Angeles,Los Angeles Unified,N.E.W. Academy of Science and Arts,General Assistance
+Los Angeles,Los Angeles Unified,Stella Middle Charter Academy,General Assistance
+Los Angeles,Los Angeles Unified,Central City Value,General Assistance
+Los Angeles,Los Angeles Unified,KIPP Los Angeles College Preparatory,General Assistance
+Los Angeles,Los Angeles Unified,William J. Johnston Community Day,General Assistance
+Los Angeles,Los Angeles Unified,KIPP Academy of Opportunity,General Assistance
+Los Angeles,Los Angeles Unified,Richard Riordan Primary Center,ATSI
+Los Angeles,Los Angeles Unified,Renaissance Arts Academy,General Assistance
+Los Angeles,Los Angeles Unified,Aggeler Community Day,General Assistance
+Los Angeles,Los Angeles Unified,Ocean Charter,General Assistance
+Los Angeles,Los Angeles Unified,PUC Milagro Charter,General Assistance
+Los Angeles,Los Angeles Unified,Animo South Los Angeles Charter,General Assistance
+Los Angeles,Los Angeles Unified,PUC Lakeview Charter Academy,General Assistance
+Los Angeles,Los Angeles Unified,N.E.W. Academy Canoga Park,General Assistance
+Los Angeles,Los Angeles Unified,Dr. Theodore T. Alexander Jr. Science Center,General Assistance
+Los Angeles,Los Angeles Unified,New Designs Charter,General Assistance
+Los Angeles,Los Angeles Unified,Richard A. Alonzo Community Day,CSI Grad
+Los Angeles,Los Angeles Unified,Dr. Richard A. Vladovic Harbor Teacher Preparation Academy,General Assistance
+Los Angeles,Los Angeles Unified,Ivy Academia,ATSI
+Los Angeles,Los Angeles Unified,Synergy Charter Academy,General Assistance
+Los Angeles,Los Angeles Unified,Animo Pat Brown,General Assistance
+Los Angeles,Los Angeles Unified,Alliance Gertz-Ressler Richard Merkin 6-12 Complex,General Assistance
+Los Angeles,Los Angeles Unified,Bert Corona Charter,General Assistance
+Los Angeles,Los Angeles Unified,Maple Primary Center,ATSI
+Los Angeles,Los Angeles Unified,Stanford Primary Center,General Assistance
+Los Angeles,Los Angeles Unified,Vista Middle,General Assistance
+Los Angeles,Los Angeles Unified,Southeast Middle,General Assistance
+Los Angeles,Los Angeles Unified,Orthopaedic Hospital,General Assistance
+Los Angeles,Los Angeles Unified,CHAMPS - Charter HS of Arts-Multimedia & Performing,General Assistance
+Los Angeles,Los Angeles Unified,Gabriella Charter,General Assistance
+Los Angeles,Los Angeles Unified,ISANA Nascent Academy,General Assistance
+Los Angeles,Los Angeles Unified,Larchmont Charter,General Assistance
+Los Angeles,Los Angeles Unified,Olympic Primary Center,General Assistance
+Los Angeles,Los Angeles Unified,Lake Street Primary,ATSI
+Los Angeles,Los Angeles Unified,Martha Escutia Primary Center,ATSI
+Los Angeles,Los Angeles Unified,Garza (Carmen Lomas) Primary Center,General Assistance
+Los Angeles,Los Angeles Unified,"Danny J. Bakewell, Sr., Primary Center",General Assistance
+Los Angeles,Los Angeles Unified,Hooper Avenue Primary Center,General Assistance
+Los Angeles,Los Angeles Unified,Mariposa-Nabi Primary Center,General Assistance
+Los Angeles,Los Angeles Unified,Lexington Avenue Primary Center,General Assistance
+Los Angeles,Los Angeles Unified,Middleton Primary Center,General Assistance
+Los Angeles,Los Angeles Unified,Amanecer Primary Center,General Assistance
+Los Angeles,Los Angeles Unified,Hollywood Primary Center,General Assistance
+Los Angeles,Los Angeles Unified,Washington Primary Center,General Assistance
+Los Angeles,Los Angeles Unified,Pacific Boulevard,General Assistance
+Los Angeles,Los Angeles Unified,Rosa Parks Learning Center,General Assistance
+Los Angeles,Los Angeles Unified,Santee Education Complex,ATSI
+Los Angeles,Los Angeles Unified,James Jordan Middle,General Assistance
+Los Angeles,Los Angeles Unified,Our Community Charter,General Assistance
+Los Angeles,Los Angeles Unified,Los Angeles Academy of Arts and Enterprise,General Assistance
+Los Angeles,Los Angeles Unified,New Heights Charter,General Assistance
+Los Angeles,Los Angeles Unified,New Village Girls Academy,General Assistance
+Los Angeles,Los Angeles Unified,Alliance Patti And Peter Neuwirth Leadership Academy,General Assistance
+Los Angeles,Los Angeles Unified,Alliance Jack H. Skirball Middle,General Assistance
+Los Angeles,Los Angeles Unified,Animo Watts College Preparatory Academy,General Assistance
+Los Angeles,Los Angeles Unified,Alliance Ouchi-O'Donovan 6-12 Complex,General Assistance
+Los Angeles,Los Angeles Unified,Alliance Marc & Eva Stern Math and Science,General Assistance
+Los Angeles,Los Angeles Unified,William Jefferson Clinton Middle,General Assistance
+Los Angeles,Los Angeles Unified,School of Business and Tourism at Contreras Learning Complex,General Assistance
+Los Angeles,Los Angeles Unified,Hesby Oaks Leadership Charter,General Assistance
+Los Angeles,Los Angeles Unified,PUC Excel Charter Academy,General Assistance
+Los Angeles,Los Angeles Unified,Los Feliz Charter School for the Arts,General Assistance
+Los Angeles,Los Angeles Unified,Bright Star Secondary Charter Academy,General Assistance
+Los Angeles,Los Angeles Unified,Contreras Learning Center-Los Angeles School of Global Studies,General Assistance
+Los Angeles,Los Angeles Unified,John H. Liechty Middle,General Assistance
+Los Angeles,Los Angeles Unified,Aspire Junior Collegiate Academy,General Assistance
+Los Angeles,Los Angeles Unified,Monsenor Oscar Romero Charter Middle,ATSI
+Los Angeles,Los Angeles Unified,Global Education Academy,General Assistance
+Los Angeles,Los Angeles Unified,Fenton Primary Center,General Assistance
+Los Angeles,Los Angeles Unified,"Ivy Bound Academy of Math, Science, and Technology Charter Middle",ATSI
+Los Angeles,Los Angeles Unified,Center for Advanced Learning,General Assistance
+Los Angeles,Los Angeles Unified,Discovery Charter Preparatory #2,General Assistance
+Los Angeles,Los Angeles Unified,ICEF Vista Middle Academy,General Assistance
+Los Angeles,Los Angeles Unified,Jack London Community Day,General Assistance
+Los Angeles,Los Angeles Unified,Dr. James Edward Jones Primary Center,General Assistance
+Los Angeles,Los Angeles Unified,Enadia Way Technology Charter,ATSI
+Los Angeles,Los Angeles Unified,Roy Romer Middle,General Assistance
+Los Angeles,Los Angeles Unified,Edward R. Roybal Learning Center,General Assistance
+Los Angeles,Los Angeles Unified,APEX Academy,ATSI
+Los Angeles,Los Angeles Unified,Alliance Piera Barbaglia Shaheen Health Services Academy,General Assistance
+Los Angeles,Los Angeles Unified,New Los Angeles Charter,General Assistance
+Los Angeles,Los Angeles Unified,Magnolia Science Academy 4,General Assistance
+Los Angeles,Los Angeles Unified,Magnolia Science Academy 6,General Assistance
+Los Angeles,Los Angeles Unified,Magnolia Science Academy 7,General Assistance
+Los Angeles,Los Angeles Unified,Contreras Learning Center-Academic Leadership Community,General Assistance
+Los Angeles,Los Angeles Unified,School for the Visual Arts and Humanities,General Assistance
+Los Angeles,Los Angeles Unified,Synergy Kinetic Academy,General Assistance
+Los Angeles,Los Angeles Unified,KIPP Raices Academy,General Assistance
+Los Angeles,Los Angeles Unified,New Millennium Secondary,General Assistance
+Los Angeles,Los Angeles Unified,ICEF Innovation Los Angeles Charter,General Assistance
+Los Angeles,Los Angeles Unified,Goethe International Charter,General Assistance
+Los Angeles,Los Angeles Unified,Alain Leroy Locke College Preparatory Academy,CSI Grad
+Los Angeles,Los Angeles Unified,New Open World Academy K-12,General Assistance
+Los Angeles,Los Angeles Unified,UCLA Community K-12,General Assistance
+Los Angeles,Los Angeles Unified,Sal Castro Middle,General Assistance
+Los Angeles,Los Angeles Unified,Ramon C. Cortines School of Visual and Performing Arts,General Assistance
+Los Angeles,Los Angeles Unified,Young Oak Kim Academy,General Assistance
+Los Angeles,Los Angeles Unified,Equitas Academy Charter,General Assistance
+Los Angeles,Los Angeles Unified,Endeavor College Preparatory Charter,General Assistance
+Los Angeles,Los Angeles Unified,Valor Academy Middle,General Assistance
+Los Angeles,Los Angeles Unified,Alliance College-Ready Middle Academy 4,General Assistance
+Los Angeles,Los Angeles Unified,Alliance College-Ready Middle Academy 5,General Assistance
+Los Angeles,Los Angeles Unified,New Designs Charter School-Watts,General Assistance
+Los Angeles,Los Angeles Unified,Daniel Pearl Journalism & Communications Magnet,General Assistance
+Los Angeles,Los Angeles Unified,Aspire Titan Academy,General Assistance
+Los Angeles,Los Angeles Unified,Watts Learning Center Charter Middle,General Assistance
+Los Angeles,Los Angeles Unified,Dorothy V. Johnson Community Day,General Assistance
+Los Angeles,Los Angeles Unified,Ararat Charter,General Assistance
+Los Angeles,Los Angeles Unified,Ambassador-Global Leadership,General Assistance
+Los Angeles,Los Angeles Unified,Ambassador School-Global Education,General Assistance
+Los Angeles,Los Angeles Unified,Ingenium Charter,ATSI
+Los Angeles,Los Angeles Unified,KIPP Empower Academy,ATSI
+Los Angeles,Los Angeles Unified,KIPP Comienza Community Prep,General Assistance
+Los Angeles,Los Angeles Unified,Crown Preparatory Academy,General Assistance
+Los Angeles,Los Angeles Unified,Carson-Gore Academy of Enviornmental Studies,ATSI
+Los Angeles,Los Angeles Unified,Judith F. Baca Arts Academy,General Assistance
+Los Angeles,Los Angeles Unified,Vista del Valle Dual Language Academy,General Assistance
+Los Angeles,Los Angeles Unified,Carlos Santana Arts Academy,General Assistance
+Los Angeles,Los Angeles Unified,TEACH Academy of Technologies,General Assistance
+Los Angeles,Los Angeles Unified,Esteban Torres East LA Performing Arts Magnet,General Assistance
+Los Angeles,Los Angeles Unified,Orchard Academies 2B,General Assistance
+Los Angeles,Los Angeles Unified,Orchard Academies 2C,General Assistance
+Los Angeles,Los Angeles Unified,Barack Obama Global Preparation Academy,General Assistance
+Los Angeles,Los Angeles Unified,Animo Jefferson Charter Middle,General Assistance
+Los Angeles,Los Angeles Unified,Animo Westside Charter Middle,General Assistance
+Los Angeles,Los Angeles Unified,Citizens of the World Charter School Hollywood,General Assistance
+Los Angeles,Los Angeles Unified,Aspire Gateway Academy Charter,General Assistance
+Los Angeles,Los Angeles Unified,Aspire Firestone Academy Charter,General Assistance
+Los Angeles,Los Angeles Unified,Para Los Niños - Evelyn Thurman Gratts Primary,General Assistance
+Los Angeles,Los Angeles Unified,ISANA Octavia Academy,General Assistance
+Los Angeles,Los Angeles Unified,Aspire Pacific Academy,General Assistance
+Los Angeles,Los Angeles Unified,Vista Charter Middle,General Assistance
+Los Angeles,Los Angeles Unified,Magnolia Science Academy Bell,General Assistance
+Los Angeles,Los Angeles Unified,Camino Nuevo Charter Academy #2,General Assistance
+Los Angeles,Los Angeles Unified,Arts In Action Community Charter,General Assistance
+Los Angeles,Los Angeles Unified,ISANA Palmati Academy,General Assistance
+Los Angeles,Los Angeles Unified,ISANA Cardinal Academy,General Assistance
+Los Angeles,Los Angeles Unified,Animo Ellen Ochoa Charter Middle,General Assistance
+Los Angeles,Los Angeles Unified,Animo James B. Taylor Charter Middle,General Assistance
+Los Angeles,Los Angeles Unified,Animo Legacy Charter Middle,ATSI
+Los Angeles,Los Angeles Unified,Extera Public,General Assistance
+Los Angeles,Los Angeles Unified,Rise Kohyang Middle,General Assistance
+Los Angeles,Los Angeles Unified,Valley Academy of Arts and Sciences,General Assistance
+Los Angeles,Los Angeles Unified,Cesar E. Chavez Learning Academies-Arts/Theatre/Entertain Mag,General Assistance
+Los Angeles,Los Angeles Unified,Cesar E. Chavez Learning Academies-Social Justice Humanitas Academy,General Assistance
+Los Angeles,Los Angeles Unified,Cesar E. Chavez Learning Academies-Academy of Scientific Exploration (ASE),General Assistance
+Los Angeles,Los Angeles Unified,Cesar E. Chavez Learning Academies-Technology Preparatory Academy,General Assistance
+Los Angeles,Los Angeles Unified,Sotomayor Arts and Sciences Magnet,General Assistance
+Los Angeles,Los Angeles Unified,Dr. Julian Nava Learning Academy,General Assistance
+Los Angeles,Los Angeles Unified,Public Service Community at Diego Rivera Learning Complex,General Assistance
+Los Angeles,Los Angeles Unified,Communication and Technology at Diego Rivera Learning Complex,General Assistance
+Los Angeles,Los Angeles Unified,Diego Rivera Learning Complex Green Design STEAM Academy,General Assistance
+Los Angeles,Los Angeles Unified,Performing Arts Community at Diego Rivera Learning Complex,ATSI
+Los Angeles,Los Angeles Unified,Rancho Dominguez Preparatory,General Assistance
+Los Angeles,Los Angeles Unified,Synergy Quantum Academy,General Assistance
+Los Angeles,Los Angeles Unified,Aspire Slauson Academy Charter,General Assistance
+Los Angeles,Los Angeles Unified,Aspire Juanita Tate Academy Charter,General Assistance
+Los Angeles,Los Angeles Unified,Aspire Inskeep Academy Charter,General Assistance
+Los Angeles,Los Angeles Unified,Los Angeles Leadership Primary Academy,General Assistance
+Los Angeles,Los Angeles Unified,Camino Nuevo Charter Academy #4,General Assistance
+Los Angeles,Los Angeles Unified,Animo College Preparatory Academy,ATSI
+Los Angeles,Los Angeles Unified,PUC Early College Academy for Leaders and Scholars (ECALS),General Assistance
+Los Angeles,Los Angeles Unified,Academy for Enriched Sciences,General Assistance
+Los Angeles,Los Angeles Unified,KIPP Philosophers Academy,General Assistance
+Los Angeles,Los Angeles Unified,KIPP Scholar Academy,General Assistance
+Los Angeles,Los Angeles Unified,KIPP Sol Academy,General Assistance
+Los Angeles,Los Angeles Unified,San Fernando Institute of Applied Media,General Assistance
+Los Angeles,Los Angeles Unified,Math and Science College Preparatory,General Assistance
+Los Angeles,Los Angeles Unified,Equitas Academy #2,General Assistance
+Los Angeles,Los Angeles Unified,Citizens of the World Charter School Silver Lake,General Assistance
+Los Angeles,Los Angeles Unified,Citizens of the World Charter School Mar Vista,General Assistance
+Los Angeles,Los Angeles Unified,"Gerald A. Lawson Academy of the Arts, Mathematics and Science",General Assistance
+Los Angeles,Los Angeles Unified,"Dr. Lawrence H. Moore Math, Science, Technology Academy",General Assistance
+Los Angeles,Los Angeles Unified,Walnut Park Middle A School of Social Justice and Service Learning,General Assistance
+Los Angeles,Los Angeles Unified,"Walnut Park Middle B Science, Technology, Engineering and Mathematics Academy",General Assistance
+Los Angeles,Los Angeles Unified,"Hilda L. Solis Learning Academy School of Technology, Business and Education",General Assistance
+Los Angeles,Los Angeles Unified,Harry Bridges Span,General Assistance
+Los Angeles,Los Angeles Unified,Sylmar Leadership Academy,General Assistance
+Los Angeles,Los Angeles Unified,Porter Ranch Community,General Assistance
+Los Angeles,Los Angeles Unified,Aspire Centennial College Preparatory Academy,General Assistance
+Los Angeles,Los Angeles Unified,KIPP Iluminar Academy,General Assistance
+Los Angeles,Los Angeles Unified,Humanities and Arts (HARTS) Academy of Los Angeles,General Assistance
+Los Angeles,Los Angeles Unified,Contreras Learning Center-School of Social Justice,General Assistance
+Los Angeles,Los Angeles Unified,Early College Academy-LA Trade Tech College,General Assistance
+Los Angeles,Los Angeles Unified,City Language Immersion Charter,General Assistance
+Los Angeles,Los Angeles Unified,Alliance Virgil Roberts Leadership Academy,General Assistance
+Los Angeles,Los Angeles Unified,Alliance College-Ready Middle Academy 8,ATSI
+Los Angeles,Los Angeles Unified,Alliance Kory Hunter Middle,General Assistance
+Los Angeles,Los Angeles Unified,Alliance College-Ready Middle Academy 12,General Assistance
+Los Angeles,Los Angeles Unified,Extera Public School No. 2,General Assistance
+Los Angeles,Los Angeles Unified,New Horizons Charter Academy,General Assistance
+Los Angeles,Los Angeles Unified,"Ivy Bound Academy Math, Science, and Technology Charter Middle 2",ATSI
+Los Angeles,Los Angeles Unified,KIPP Academy of Innovation,General Assistance
+Los Angeles,Los Angeles Unified,Animo Mae Jemison Charter Middle,General Assistance
+Los Angeles,Los Angeles Unified,KIPP Vida Preparatory Academy,General Assistance
+Los Angeles,Los Angeles Unified,"Boyle Heights Science, Technology, Engineering and Math Magnet",General Assistance
+Los Angeles,Los Angeles Unified,NAVA College Preparatory Academy,General Assistance
+Los Angeles,Los Angeles Unified,PUC Inspire Charter Academy,General Assistance
+Los Angeles,Los Angeles Unified,Equitas Academy #3 Charter,General Assistance
+Los Angeles,Los Angeles Unified,Global Education Academy 2,General Assistance
+Los Angeles,Los Angeles Unified,Everest Value,General Assistance
+Los Angeles,Los Angeles Unified,Village Charter Academy,General Assistance
+Los Angeles,Los Angeles Unified,Sylmar Biotech Health and Engineering Magnet,General Assistance
+Los Angeles,Los Angeles Unified,Fenton Charter Leadership Academy,General Assistance
+Los Angeles,Los Angeles Unified,KIPP Promesa Prep,General Assistance
+Los Angeles,Los Angeles Unified,Public Policy Charter,General Assistance
+Los Angeles,Los Angeles Unified,Resolute Academy Charter,General Assistance
+Los Angeles,Los Angeles Unified,Libertas College Preparatory Charter,General Assistance
+Los Angeles,Los Angeles Unified,Alliance Marine - Innovation and Technology 6-12 Complex,General Assistance
+Los Angeles,Los Angeles Unified,Ednovate - East College Prep,General Assistance
+Los Angeles,Los Angeles Unified,Anahuacalmecac International University Preparatory of North America,General Assistance
+Los Angeles,Los Angeles Unified,PUC Nueva Esperanza Charter Academy,General Assistance
+Los Angeles,Los Angeles Unified,"Girls Academic Leadership Academy, Dr. Michelle King School for Sci, Tech, Eng and Math",General Assistance
+Los Angeles,Los Angeles Unified,Equitas Academy 4,General Assistance
+Los Angeles,Los Angeles Unified,Girls Athletic Leadership School Los Angeles,General Assistance
+Los Angeles,Los Angeles Unified,Science Academy STEM Magnet,General Assistance
+Los Angeles,Los Angeles Unified,Fourth Street Primary Center,General Assistance
+Los Angeles,Los Angeles Unified,Animo Florence-Firestone Charter Middle,General Assistance
+Los Angeles,Los Angeles Unified,The City,General Assistance
+Los Angeles,Los Angeles Unified,Arts in Action Community Middle,General Assistance
+Los Angeles,Los Angeles Unified,Gabriella Charter 2,General Assistance
+Los Angeles,Los Angeles Unified,KIPP Corazon Academy,General Assistance
+Los Angeles,Los Angeles Unified,Crete Academy,General Assistance
+Los Angeles,Los Angeles Unified,Horace Mann UCLA Community,General Assistance
+Los Angeles,Los Angeles Unified,Katherine Johnson STEM Academy,General Assistance
+Los Angeles,Los Angeles Unified,Ednovate - Esperanza College Prep,General Assistance
+Los Angeles,Los Angeles Unified,Maywood Center for Enriched Studies,General Assistance
+Los Angeles,Los Angeles Unified,WISH Community,General Assistance
+Los Angeles,Los Angeles Unified,Boys Academic Leadership Academy,General Assistance
+Los Angeles,Los Angeles Unified,University Pathways Medical Magnet Academy,General Assistance
+Los Angeles,Los Angeles Unified,University Pathways Public Service Academy,General Assistance
+Los Angeles,Los Angeles Unified,Los Feliz Charter Middle School for the Arts,General Assistance
+Los Angeles,Los Angeles Unified,Learning by Design Charter,General Assistance
+Los Angeles,Los Angeles Unified,Vox Collegiate of Los Angeles,General Assistance
+Los Angeles,Los Angeles Unified,Excelencia Charter Academy,General Assistance
+Los Angeles,Los Angeles Unified,Matrix for Success Academy,General Assistance
+Los Angeles,Los Angeles Unified,Harris Newmark Continuation,CSI Grad
+Los Angeles,Los Angeles Unified,View Park Continuation,CSI Grad
+Los Angeles,Los Angeles Unified,Moneta Continuation,General Assistance
+Los Angeles,Los Angeles Unified,San Antonio Continuation,General Assistance
+Los Angeles,Los Angeles Unified,Pueblo de Los Angeles Continuation,General Assistance
+Los Angeles,Los Angeles Unified,Angel's Gate (Continuation),General Assistance
+Los Angeles,Los Angeles Unified,Phoenix Continuation,General Assistance
+Los Angeles,Los Angeles Unified,Mt. Lukens Continuation,General Assistance
+Los Angeles,Los Angeles Unified,Simon Rodia Continuation,General Assistance
+Los Angeles,Los Angeles Unified,Westside Global Awareness Magnet,ATSI
+Los Angeles,Los Angeles Unified,Mid-City's Prescott School of Enriched Sciences,General Assistance
+Los Angeles,Los Angeles Unified,Cheviot Hills Continuation,General Assistance
+Los Angeles,Los Angeles Unified,Amelia Earhart Continuation,General Assistance
+Los Angeles,Los Angeles Unified,Albert Einstein Continuation,General Assistance
+Los Angeles,Los Angeles Unified,Robert H. Lewis Continuation,CSI Grad
+Los Angeles,Los Angeles Unified,Jack London Continuation,CSI Grad
+Los Angeles,Los Angeles Unified,Metropolitan Continuation,General Assistance
+Los Angeles,Los Angeles Unified,Mission Continuation,General Assistance
+Los Angeles,Los Angeles Unified,Owensmouth Continuation,CSI Grad
+Los Angeles,Los Angeles Unified,George S. Patton Continuation,General Assistance
+Los Angeles,Los Angeles Unified,Will Rogers Continuation,CSI Grad
+Los Angeles,Los Angeles Unified,Stoney Point Continuation,CSI Grad
+Los Angeles,Los Angeles Unified,Diane S. Leichman Career Preparatory and Transition Center,CSI Grad
+Los Angeles,Los Angeles Unified,Frank Lanterman,General Assistance
+Los Angeles,Los Angeles Unified,Zane Grey Continuation,General Assistance
+Los Angeles,Los Angeles Unified,Independence Continuation,CSI Grad
+Los Angeles,Los Angeles Unified,Lake Balboa College Preparatory Magnet K-12,General Assistance
+Los Angeles,Los Angeles Unified,Whitman Continuation,General Assistance
+Los Angeles,Los Angeles Unified,John Hope Continuation,General Assistance
+Los Angeles,Los Angeles Unified,Monterey Continuation,General Assistance
+Los Angeles,Los Angeles Unified,Odyssey Continuation,General Assistance
+Los Angeles,Los Angeles Unified,"Crenshaw Science, Technology, Engineering, Math and Medicine Magnet",General Assistance
+Los Angeles,Los Angeles Unified,Henry David Thoreau Continuation,CSI Grad
+Los Angeles,Los Angeles Unified,Eagle Tree Continuation,General Assistance
+Los Angeles,Los Angeles Unified,Jane Addams Continuation,CSI Grad
+Los Angeles,Los Angeles Unified,Evergreen Continuation,CSI Grad
+Los Angeles,Los Angeles Unified,West Hollywood Opportunity,General Assistance
+Los Angeles,Los Angeles Unified,Boyle Heights Continuation,General Assistance
+Los Angeles,Los Angeles Unified,Los Angeles Center for Enriched Studies,General Assistance
+Los Angeles,Los Angeles Unified,Arroyo Seco Museum Science,General Assistance
+Los Angeles,Los Angeles Unified,John H. Francis Polytechnic,General Assistance
+Los Angeles,Los Angeles Unified,Sherman Oaks Center for Enriched Studies,General Assistance
+Los Angeles,Los Angeles Unified,Granada Hills Charter,General Assistance
+Los Angeles,Los Angeles Unified,Joaquin Miller Career and Transition Center,General Assistance
+Los Angeles,Los Angeles Unified,WESM Health/Sports Medicine,General Assistance
+Los Angeles,Los Angeles Unified,Joseph Pomeroy Widney Career Preparatory and Transition Center,General Assistance
+Los Angeles,Los Angeles Unified,Youth Opportunities Unlimited,General Assistance
+Los Angeles,Los Angeles Unified,Tri-C Community Day,General Assistance
+Los Angeles,Los Angeles Unified,City of Angels,CSI Grad
+Los Angeles,Los Angeles Unified,Los Angeles Leadership Academy,General Assistance
+Los Angeles,Los Angeles Unified,Beckford Charter for Enriched Studies,General Assistance
+Los Angeles,Los Angeles Unified,Brentwood Science,General Assistance
+Los Angeles,Los Angeles Unified,Calabash Charter Academy,General Assistance
+Los Angeles,Los Angeles Unified,Calvert Charter for Enriched Studies,General Assistance
+Los Angeles,Los Angeles Unified,Caroldale Learning Community,General Assistance
+Los Angeles,Los Angeles Unified,Carpenter Community Charter,General Assistance
+Los Angeles,Los Angeles Unified,Chatsworth Park ES Urban Planning/Community Development Magnet,General Assistance
+Los Angeles,Los Angeles Unified,Dixie Canyon Community Charter,General Assistance
+Los Angeles,Los Angeles Unified,El Oro Way Charter For Enriched Studies,General Assistance
+Los Angeles,Los Angeles Unified,Elizabeth Learning Center,ATSI
+Los Angeles,Los Angeles Unified,Elysian Heights ES Arts Magnet,General Assistance
+Los Angeles,Los Angeles Unified,Fenton Avenue Charter,General Assistance
+Los Angeles,Los Angeles Unified,Germain Academy For Academic Achievement,General Assistance
+Los Angeles,Los Angeles Unified,"Glassell Park ES Science, Technology, Engineering, Arts and Math Magnet",General Assistance
+Los Angeles,Los Angeles Unified,Hamlin Charter Academy,General Assistance
+Los Angeles,Los Angeles Unified,Haynes Charter For Enriched Studies,General Assistance
+Los Angeles,Los Angeles Unified,Justice Street Academy Charter,General Assistance
+Los Angeles,Los Angeles Unified,Knollwood Preparatory Academy,General Assistance
+Los Angeles,Los Angeles Unified,Logan Academy of Global Ecology,General Assistance
+Los Angeles,Los Angeles Unified,Lomita Math/Science/Technology Magnet,General Assistance
+Los Angeles,Los Angeles Unified,Los Feliz Science/Tech/Engineer/Math/Medicine Magnet,General Assistance
+Los Angeles,Los Angeles Unified,Loyola Village Fine And Performing Arts Magnet,General Assistance
+Los Angeles,Los Angeles Unified,Marquez Charter,General Assistance
+Los Angeles,Los Angeles Unified,Montague Charter Academy,General Assistance
+Los Angeles,Los Angeles Unified,Nestle Avenue Charter,ATSI
+Los Angeles,Los Angeles Unified,One Hundred Eighteenth Street,General Assistance
+Los Angeles,Los Angeles Unified,One Hundred Fifty-Third Street,General Assistance
+Los Angeles,Los Angeles Unified,Parthenia Academy of Arts and Technology,General Assistance
+Los Angeles,Los Angeles Unified,Paseo del Rey Fundamental,General Assistance
+Los Angeles,Los Angeles Unified,Plainview Academic Charter Academy,ATSI
+Los Angeles,Los Angeles Unified,Pomelo Community Charter,General Assistance
+Los Angeles,Los Angeles Unified,Riverside Drive Charter,General Assistance
+Los Angeles,Los Angeles Unified,Rockdale Visual & Performing Arts Magnet,General Assistance
+Los Angeles,Los Angeles Unified,Santa Monica Boulevard Community Charter,General Assistance
+Los Angeles,Los Angeles Unified,Serrania Avenue Charter For Enriched Studies,General Assistance
+Los Angeles,Los Angeles Unified,Gil Garcetti Learning Academy,General Assistance
+Los Angeles,Los Angeles Unified,South Shores/CSUDH Visual and Performing Arts,General Assistance
+Los Angeles,Los Angeles Unified,Thirty-Second Street USC Performing Arts,General Assistance
+Los Angeles,Los Angeles Unified,Topeka Charter School For Advanced Studies,General Assistance
+Los Angeles,Los Angeles Unified,Two Hundred Thirty-Second Place,General Assistance
+Los Angeles,Los Angeles Unified,Van Gogh Charter,General Assistance
+Los Angeles,Los Angeles Unified,Vaughn Next Century Learning Center,General Assistance
+Los Angeles,Los Angeles Unified,Vintage Math/Science/Technology Magnet,General Assistance
+Los Angeles,Los Angeles Unified,Wilbur Charter For Enriched Academics,General Assistance
+Los Angeles,Los Angeles Unified,Windsor Hills Math Science,General Assistance
+Los Angeles,Los Angeles Unified,John Adams Middle,General Assistance
+Los Angeles,Los Angeles Unified,Belvedere Middle,General Assistance
+Los Angeles,Los Angeles Unified,Luther Burbank Middle,General Assistance
+Los Angeles,Los Angeles Unified,Richard E. Byrd Middle,General Assistance
+Los Angeles,Los Angeles Unified,Andrew Carnegie Middle,ATSI
+Los Angeles,Los Angeles Unified,George Washington Carver Middle,General Assistance
+Los Angeles,Los Angeles Unified,Chester W. Nimitz Middle,General Assistance
+Los Angeles,Los Angeles Unified,Christopher Columbus Middle,General Assistance
+Los Angeles,Los Angeles Unified,Richard Henry Dana Middle,General Assistance
+Los Angeles,Los Angeles Unified,Emerson Community Charter,General Assistance
+Los Angeles,Los Angeles Unified,Alexander Fleming Middle,General Assistance
+Los Angeles,Los Angeles Unified,Robert Fulton College Preparatory,General Assistance
+Los Angeles,Los Angeles Unified,Samuel Gompers Middle,General Assistance
+Los Angeles,Los Angeles Unified,Griffith Middle,General Assistance
+Los Angeles,Los Angeles Unified,Hollenbeck Middle,General Assistance
+Los Angeles,Los Angeles Unified,Oliver Wendell Holmes Middle,General Assistance
+Los Angeles,Los Angeles Unified,"Washington Irving Middle School Math, Music and Engineering Magnet",General Assistance
+Los Angeles,Los Angeles Unified,Thomas Starr King Middle School Film and Media Magnet,General Assistance
+Los Angeles,Los Angeles Unified,Ernest Lawrence Middle,ATSI
+Los Angeles,Los Angeles Unified,Marina del Rey Middle,ATSI
+Los Angeles,Los Angeles Unified,Mark Twain Middle,General Assistance
+Los Angeles,Los Angeles Unified,Mary McLeod Bethune Middle,General Assistance
+Los Angeles,Los Angeles Unified,Robert A. Millikan Affiliated Charter & Performing Arts Magnet Middle,General Assistance
+Los Angeles,Los Angeles Unified,Mt. Gleason Middle,General Assistance
+Los Angeles,Los Angeles Unified,William Mulholland Middle,General Assistance
+Los Angeles,Los Angeles Unified,Florence Nightingale Middle,General Assistance
+Los Angeles,Los Angeles Unified,Pacoima Middle,General Assistance
+Los Angeles,Los Angeles Unified,Palms Middle,General Assistance
+Los Angeles,Los Angeles Unified,George K. Porter Middle,General Assistance
+Los Angeles,Los Angeles Unified,Paul Revere Charter Middle,General Assistance
+Los Angeles,Los Angeles Unified,Robert Frost Middle,General Assistance
+Los Angeles,Los Angeles Unified,San Fernando Middle,General Assistance
+Los Angeles,Los Angeles Unified,Francisco Sepulveda Middle,ATSI
+Los Angeles,Los Angeles Unified,South Gate Middle,General Assistance
+Los Angeles,Los Angeles Unified,Robert Louis Stevenson College and Career Preparatory,ATSI
+Los Angeles,Los Angeles Unified,John A. Sutter Middle,General Assistance
+Los Angeles,Los Angeles Unified,Virgil Middle,General Assistance
+Los Angeles,Los Angeles Unified,Daniel Webster Middle,General Assistance
+Los Angeles,Los Angeles Unified,Stephen M. White Middle,General Assistance
+Los Angeles,Los Angeles Unified,"Wilmington Middle Science, Technology, Engineering, Arts, Mathematics (STEAM) Magnet",ATSI
+Los Angeles,Los Angeles Unified,Orville Wright Engineering and Design Magnet,General Assistance
+Los Angeles,Los Angeles Unified,Charles Leroy Lowman Special Education and Career Transition Center,General Assistance
+Los Angeles,Los Angeles Unified,Benjamin Banneker Career and Transition Center,CSI Grad
+Los Angeles,Los Angeles Unified,Ernest P. Willenberg Special Education Center,CSI Grad
+Los Angeles,Los Angeles Unified,James J. McBride Special Education Center,General Assistance
+Los Angeles,Los Angeles Unified,Alfonso B. Perez Special Education Center,General Assistance
+Los Angeles,Los Angeles Unified,Sven Lokrantz Special Education Center,General Assistance
+Los Angeles,Los Angeles Unified,Sophia T. Salvin Special Education Center,General Assistance
+Los Angeles,Los Angeles Unified,Audubon Middle,General Assistance
+Los Angeles,Los Angeles Unified,Berendo Middle,General Assistance
+Los Angeles,Los Angeles Unified,John Burroughs Middle,General Assistance
+Los Angeles,Los Angeles Unified,Rudecinda Sepulveda Dodson Middle,General Assistance
+Los Angeles,Los Angeles Unified,Thomas A. Edison Middle,General Assistance
+Los Angeles,Los Angeles Unified,Foshay Learning Center,General Assistance
+Los Angeles,Los Angeles Unified,Henry T. Gage Middle,General Assistance
+Los Angeles,Los Angeles Unified,George Ellery Hale Charter Academy,General Assistance
+Los Angeles,Los Angeles Unified,Patrick Henry Middle,General Assistance
+Los Angeles,Los Angeles Unified,Joseph Le Conte Middle,General Assistance
+Los Angeles,Los Angeles Unified,James Madison Middle,General Assistance
+Los Angeles,Los Angeles Unified,Edwin Markham Middle,ATSI
+Los Angeles,Los Angeles Unified,Alfred B. Nobel Charter Middle,General Assistance
+Los Angeles,Los Angeles Unified,Olive Vista Middle,General Assistance
+Los Angeles,Los Angeles Unified,Woodland Hills Academy,General Assistance
+Los Angeles,Los Angeles Unified,Robert E. Peary Middle,ATSI
+Los Angeles,Los Angeles Unified,Gaspar De Portola Charter Middle,General Assistance
+Los Angeles,Los Angeles Unified,Sun Valley Magnet,ATSI
+Los Angeles,Los Angeles Unified,Walter Reed Middle,General Assistance
+Los Angeles,Los Angeles Unified,Glenn Hammond Curtiss Middle,General Assistance
+Los Angeles,Los Angeles Unified,El Sereno Middle,General Assistance
+Los Angeles,Los Angeles Unified,Berenece Carlson Home Hospital,CSI Grad
+Los Angeles,Los Angeles Unified,Castlebay Lane Charter,General Assistance
+Los Angeles,Los Angeles Unified,Open Charter Magnet,General Assistance
+Los Angeles,Los Angeles Unified,Accelerated,General Assistance
+Los Angeles,Los Angeles Unified,Gratts Learning Academy for Young Scholars (GLAYS),General Assistance
+Los Angeles,Los Angeles Unified,Watts Learning Center,General Assistance
+Los Angeles,Los Angeles Unified,Los Angeles Academy Middle,ATSI
+Los Angeles,Los Angeles Unified,Primary Academy for Success,General Assistance
+Los Angeles,Los Angeles Unified,Camino Nuevo Charter Academy,General Assistance
+Los Angeles,Los Angeles Unified,Ellen Ochoa Learning Center,General Assistance
+Los Angeles,Los Angeles Unified,Multicultural Learning Center,General Assistance
+Los Angeles,Los Angeles Unified,Lafayette Park Primary Center,General Assistance
+Los Angeles,Los Angeles Unified,CHIME Institute's Schwarzenegger Community,General Assistance
+Los Angeles,Los Angeles Unified,Downtown Value,General Assistance
+Los Angeles,Los Angeles Unified,Puente Charter,General Assistance
+Los Angeles,Los Angeles Unified,Para Los Niños Charter,General Assistance
+Los Angeles,Los Angeles Unified,Columbus Avenue,General Assistance
+Los Angeles,Los Angeles Unified,ICEF View Park Preparatory Middle,General Assistance
+Los Angeles,Los Nietos,Los Nietos Middle,ATSI
+Los Angeles,Lowell Joint,Rancho-Starbuck Intermediate,General Assistance
+Los Angeles,Lynwood Unified,Cesar Chavez Middle,General Assistance
+Los Angeles,Lynwood Unified,Pathway Independent Study,CSI Grad
+Los Angeles,Lynwood Unified,Hosler Middle,ATSI
+Los Angeles,Lynwood Unified,Lynwood Middle,ATSI
+Los Angeles,Manhattan Beach Unified,Manhattan Beach Middle,General Assistance
+Los Angeles,Monrovia Unified,Mountain Park,General Assistance
+Los Angeles,Monrovia Unified,Clifton Middle,General Assistance
+Los Angeles,Monrovia Unified,Santa Fe Computer Science Magnet,General Assistance
+Los Angeles,Monrovia Unified,Wild Rose School of Creative,General Assistance
+Los Angeles,Montebello Unified,Applied Technology Center,General Assistance
+Los Angeles,Montebello Unified,Montebello Community Day,General Assistance
+Los Angeles,Montebello Unified,Macy Intermediate,General Assistance
+Los Angeles,Montebello Unified,Rosewood Park,General Assistance
+Los Angeles,Montebello Unified,Bell Gardens Intermediate,General Assistance
+Los Angeles,Montebello Unified,Eastmont Intermediate,General Assistance
+Los Angeles,Montebello Unified,Montebello Intermediate,General Assistance
+Los Angeles,Montebello Unified,Suva Intermediate,General Assistance
+Los Angeles,Mountain View Elementary,Charles T. Kranz Intermediate,General Assistance
+Los Angeles,Mountain View Elementary,Alfred S. Madrid Middle,General Assistance
+Los Angeles,Norwalk-La Mirada Unified,Arlie F. Hutchinson Middle,General Assistance
+Los Angeles,Norwalk-La Mirada Unified,Corvallis Middle,General Assistance
+Los Angeles,Norwalk-La Mirada Unified,Los Alisos Middle,General Assistance
+Los Angeles,Norwalk-La Mirada Unified,Nettie L. Waite Middle,General Assistance
+Los Angeles,Norwalk-La Mirada Unified,Reginald M. Benton Middle,General Assistance
+Los Angeles,Norwalk-La Mirada Unified,Los Coyotes Middle,General Assistance
+Los Angeles,Palmdale Elementary,"Desert Willow Fine Arts, Science and Technology Magnet Academy",ATSI
+Los Angeles,Palmdale Elementary,Antelope Valley Learning Academy,General Assistance
+Los Angeles,Palmdale Elementary,Oak Tree Community Day,ATSI
+Los Angeles,Palmdale Elementary,Dos Caminos Dual Immersion,General Assistance
+Los Angeles,Palmdale Elementary,Palmdale Aerospace Academy,General Assistance
+Los Angeles,Palmdale Elementary,David G. Millen Law and Government Magnet Academy,General Assistance
+Los Angeles,Palmdale Elementary,Innovations Academy of Palmdale,General Assistance
+Los Angeles,Palmdale Elementary,Palmdale Learning Plaza,General Assistance
+Los Angeles,Palmdale Elementary,Shadow Hills Engineering and Design Magnet Academy,ATSI
+Los Angeles,Palmdale Elementary,Los Amigos - Dual Immersion,General Assistance
+Los Angeles,Palos Verdes Peninsula Unified,Palos Verdes Intermediate,General Assistance
+Los Angeles,Palos Verdes Peninsula Unified,Miraleste Intermediate,General Assistance
+Los Angeles,Palos Verdes Peninsula Unified,Ridgecrest Intermediate,General Assistance
+Los Angeles,Paramount Unified,Leona Jackson,General Assistance
+Los Angeles,Paramount Unified,Howard Tanner,General Assistance
+Los Angeles,Paramount Unified,Paramount Park Middle,General Assistance
+Los Angeles,Paramount Unified,Alondra Middle,General Assistance
+Los Angeles,Paramount Unified,Odyssey STEM Academy,General Assistance
+Los Angeles,Paramount Unified,Wesley Gaines,General Assistance
+Los Angeles,Paramount Unified,Hollydale,General Assistance
+Los Angeles,Paramount Unified,Abraham Lincoln,General Assistance
+Los Angeles,Paramount Unified,Los Cerritos,General Assistance
+Los Angeles,Paramount Unified,Mark Keppel,General Assistance
+Los Angeles,Paramount Unified,Major Lynn Mokler,General Assistance
+Los Angeles,Paramount Unified,Theodore Roosevelt,ATSI
+Los Angeles,Paramount Unified,Frank J. Zamboni,General Assistance
+Los Angeles,Pasadena Unified,Aveson Global Leadership Academy,General Assistance
+Los Angeles,Pasadena Unified,Aveson School of Leaders,General Assistance
+Los Angeles,Pasadena Unified,Pasadena Rosebud Academy,General Assistance
+Los Angeles,Pasadena Unified,CIS Academy,CSI Grad
+Los Angeles,Pasadena Unified,Learning Works,CSI Grad
+Los Angeles,Pasadena Unified,Sierra Madre Middle,General Assistance
+Los Angeles,Pasadena Unified,OCS - South,General Assistance
+Los Angeles,Pasadena Unified,Marshall Fundamental,General Assistance
+Los Angeles,Pasadena Unified,Don Benito Fundamental,General Assistance
+Los Angeles,Pasadena Unified,Charles W. Eliot Middle,ATSI
+Los Angeles,Pasadena Unified,McKinley,ATSI
+Los Angeles,Pomona Unified,School of Extended Educational Options,CSI Grad
+Los Angeles,Pomona Unified,Pomona Alternative,General Assistance
+Los Angeles,Pomona Unified,La Verne Science and Technology Charter,General Assistance
+Los Angeles,Pomona Unified,Emerson Middle,ATSI
+Los Angeles,Pomona Unified,Marshall Middle,ATSI
+Los Angeles,Pomona Unified,Simons Middle,General Assistance
+Los Angeles,Pomona Unified,Fremont Academy of Engineering and Design,ATSI
+Los Angeles,Pomona Unified,Palomares Academy of Health Science,General Assistance
+Los Angeles,Pomona Unified,Lorbeer Middle,General Assistance
+Los Angeles,Redondo Beach Unified,Redondo Beach Learning Academy,General Assistance
+Los Angeles,Redondo Beach Unified,Adams Middle,General Assistance
+Los Angeles,Redondo Beach Unified,Parras (Nick G.) Middle,General Assistance
+Los Angeles,Rosemead Elementary,Muscatel Middle,ATSI
+Los Angeles,Rowland Unified,Rowland Assistive Technology Academy,General Assistance
+Los Angeles,Rowland Unified,iQ Academy California-Los Angeles,CSI Grad
+Los Angeles,Rowland Unified,Telesis Academy of Science & Math,General Assistance
+Los Angeles,Rowland Unified,Alvarado Intermediate,General Assistance
+Los Angeles,Rowland Unified,Giano Intermediate,General Assistance
+Los Angeles,Rowland Unified,Ybarra Academy for the Arts and Technology,General Assistance
+Los Angeles,Rowland Unified,Stanley G. Oswalt Academy,General Assistance
+Los Angeles,San Gabriel Unified,Options for Youth San Gabriel,CSI Grad
+Los Angeles,San Gabriel Unified,Jefferson Middle,General Assistance
+Los Angeles,San Marino Unified,Huntington Middle,General Assistance
+Los Angeles,Santa Monica-Malibu Unified,John Adams Middle,General Assistance
+Los Angeles,Santa Monica-Malibu Unified,Lincoln Middle,General Assistance
+Los Angeles,Santa Monica-Malibu Unified,Santa Monica Alternative (K-8),General Assistance
+Los Angeles,Saugus Union,West Creek Academy,General Assistance
+Los Angeles,Saugus Union,Emblem Academy,General Assistance
+Los Angeles,SBE - Academia Avance Charter,Academia Avance Charter,General Assistance
+Los Angeles,SBE - Celerity Himalia,ISANA Himalia Academy,General Assistance
+Los Angeles,SBE - Los Angeles College Prep Academy,Los Angeles College Prep Academy,General Assistance
+Los Angeles,SBE - New West Charter,New West Charter,General Assistance
+Los Angeles,SBE - The School of Arts and Enterprise,School of Arts and Enterprise,General Assistance
+Los Angeles,South Pasadena Unified,South Pasadena Middle,General Assistance
+Los Angeles,South Whittier Elementary,Richard L. Graves Middle,General Assistance
+Los Angeles,South Whittier Elementary,Monte Vista Middle,General Assistance
+Los Angeles,Sulphur Springs Union,Golden Oak Community,General Assistance
+Los Angeles,Sulphur Springs Union,Fair Oaks Ranch Community,General Assistance
+Los Angeles,Temple City Unified,Dr. Doug Sears Learning Center,General Assistance
+Los Angeles,Temple City Unified,Temple City Alternative,General Assistance
+Los Angeles,Temple City Unified,Oak Avenue Intermediate,General Assistance
+Los Angeles,Torrance Unified,Gene Drevno Community Day,General Assistance
+Los Angeles,Torrance Unified,Calle Mayor Middle,General Assistance
+Los Angeles,Torrance Unified,Casimir Middle,General Assistance
+Los Angeles,Torrance Unified,Bert M. Lynn Middle,General Assistance
+Los Angeles,Torrance Unified,Jefferson Middle,General Assistance
+Los Angeles,Torrance Unified,Madrona Middle,General Assistance
+Los Angeles,Torrance Unified,Philip Magruder Middle,General Assistance
+Los Angeles,Torrance Unified,Edward J. Richardson Middle,General Assistance
+Los Angeles,Torrance Unified,J. H. Hull Middle,General Assistance
+Los Angeles,Valle Lindo Elementary,New Temple,General Assistance
+Los Angeles,Valle Lindo Elementary,Dean L. Shively,General Assistance
+Los Angeles,Walnut Valley Unified,Ron Hockwalt Academies (Continuation),General Assistance
+Los Angeles,Walnut Valley Unified,Suzanne Middle,General Assistance
+Los Angeles,Walnut Valley Unified,Chaparral Middle,General Assistance
+Los Angeles,Walnut Valley Unified,South Pointe Middle,General Assistance
+Los Angeles,West Covina Unified,California Virtual Academy @ Los Angeles,CSI Grad
+Los Angeles,West Covina Unified,Walnut Grove Intermediate,General Assistance
+Los Angeles,West Covina Unified,Mt. SAC Early College Academy at West Covina,General Assistance
+Los Angeles,West Covina Unified,Hollencrest Middle,General Assistance
+Los Angeles,West Covina Unified,San Jose Charter Academy,General Assistance
+Los Angeles,West Covina Unified,Edgewood Middle,General Assistance
+Los Angeles,Westside Union Elementary,Anaverde Hills,General Assistance
+Los Angeles,Westside Union Elementary,Gregg Anderson Academy,General Assistance
+Los Angeles,Westside Union Elementary,Joe Walker Middle,ATSI
+Los Angeles,Westside Union Elementary,Hillview Middle,General Assistance
+Los Angeles,Whittier City Elementary,Katherine Edwards Middle,General Assistance
+Los Angeles,Whittier City Elementary,Walter F. Dexter Middle,General Assistance
+Los Angeles,William S. Hart Union High,Sequoia School,General Assistance
+Los Angeles,William S. Hart Union High,Mission View Public,General Assistance
+Los Angeles,William S. Hart Union High,Santa Clarita Valley International,General Assistance
+Los Angeles,William S. Hart Union High,Opportunities for Learning - Santa Clarita,CSI Grad
+Los Angeles,William S. Hart Union High,Academy of the Canyons,General Assistance
+Los Angeles,Wilsona Elementary,Challenger Middle,ATSI
+Los Angeles,Wilsona Elementary,Wilsona Achievement Academy,General Assistance
+Los Angeles,Wiseburn Unified,Da Vinci Science,General Assistance
+Los Angeles,Wiseburn Unified,Da Vinci Design,General Assistance
+Los Angeles,Wiseburn Unified,Da Vinci Connect,General Assistance
+Los Angeles,Wiseburn Unified,Da Vinci Communications,General Assistance
+Los Angeles,Wiseburn Unified,Success Learning Center,General Assistance
+Los Angeles,Wiseburn Unified,Richard Henry Dana Middle,General Assistance
